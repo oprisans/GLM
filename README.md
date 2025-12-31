@@ -8,7 +8,7 @@ The data were recorded form mice both during exploration and REM sleep and inclu
 ## How to cite
 If you use this code/data, please cite:
 Manuscript citation / preprint:
-Zenodo release: DOI ]
+Zenodo release: 10.5281/zenodo.18102531
 
 ## Contents
 a) Reproducible pipeline to generate: Figure/Table
